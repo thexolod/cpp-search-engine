@@ -16,8 +16,14 @@ cmake ..
 cmake --build .
 ```  
 3. Запустить
+
+Linux / Mac
 ```
-./search_engine
+./build/search_engine
+```
+Windows(PowerShell)
+```
+.\build\Debug\search_engine.exe
 ```
 ## Формат входных данных
 
