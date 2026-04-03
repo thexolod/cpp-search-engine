@@ -1,0 +1,3 @@
+this document is another test file
+engine can search words in document
+simple search test example

@@ -1,0 +1,3 @@
+this is a simple search engine test
+this engine works with text documents
+search engine processes words
